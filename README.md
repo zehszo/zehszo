@@ -26,4 +26,4 @@ I am a **Control and Automation Engineering** student at **Unicamp** I am an eng
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pedro-rodrigues-de-freitas-88856a290/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@dac.unicamp.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j175378@dac.unicamp.br)
