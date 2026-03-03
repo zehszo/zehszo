@@ -19,7 +19,6 @@ I am a **Control and Automation Engineering** student at **Unicamp** I am an eng
 * **Software Engineering:** Focused on clean code, design patterns, and building scalable systems.
 * **Data Analytics:** Applying statistical methods to extract insights from complex datasets.
 * **Embedded Systems:** Applying engineering logic to hardware-software integration.
-* **Software
 
 ---
 
